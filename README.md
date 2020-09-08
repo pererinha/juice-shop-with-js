@@ -1,3 +1,6 @@
+# write-up of the vulnerable juice shop 
+https://github.com/bkimminich/juice-shop
+
 # authorization header
 for some requests the juice shop app checks if the user that is authenticated, it is doing it by reading the value of the variable `Authorization` at the header
 
