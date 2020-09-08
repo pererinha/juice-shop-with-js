@@ -1,6 +1,10 @@
 # write-up of the vulnerable juice shop 
 https://github.com/bkimminich/juice-shop
 
+i'm trying to do all the task only by using my browser and javascript... 
+
+-----
+
 # authorization header
 for some requests the juice shop app checks if the user that is authenticated, it is doing it by reading the value of the variable `Authorization` at the header
 
